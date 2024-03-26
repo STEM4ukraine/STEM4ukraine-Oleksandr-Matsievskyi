@@ -12,6 +12,6 @@ An openscad render of the front of the PCB:
 
 ![prototype front](images/STEM4ukraine-Oleksandr-v1-openscad.png)
 
-The circuit schematic; simplicity itself:
+The circuit schematic, which allows in circuit programming via the ISP header footprint:
 
 ![prototype front](hardware/STEM4ukraine-Oleksandr-v1.svg)
